@@ -123,6 +123,14 @@ MIT License - 详见 [LICENSE](LICENSE) 文件
 - GitHub API 提供的数据
 - 所有 Star 和 Contributors
 
+## 💰 支持作者
+
+**如果这个工具对你有帮助，欢迎支持一下！**
+
+[![爱发电](https://img.shields.io/badge/爱发电-打赏作者-ff5f5f?style=for-the-badge&logo=heart)](https://afdian.net/@yourusername)
+
+> 点击上方图片前往爱发电支持
+
 ---
 
 **如果这个工具对你有帮助，欢迎给我一个 ⭐ Star！**

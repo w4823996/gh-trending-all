@@ -125,11 +125,11 @@ MIT License - 详见 [LICENSE](LICENSE) 文件
 
 ## 💰 支持作者
 
-**如果这个工具对你有帮助，欢迎支持一下！**
+**如果这个工具对你有帮助，欢迎给我一个 ⭐ Star！**
 
-[![爱发电](https://img.shields.io/badge/爱发电-打赏作者-ff5f5f?style=for-the-badge&logo=heart)](https://afdian.net/@yourusername)
+[![Star](https://img.shields.io/github/stars/w4823996/gh-trending-all?style=social)](https://github.com/w4823996/gh-trending-all)
 
-> 点击上方图片前往爱发电支持
+> 你的 Star 是对我最大的支持！
 
 ---
 
